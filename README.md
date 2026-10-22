@@ -47,4 +47,7 @@ The account lockout ticket (KAN-4) pairs with my [Active Directory lab](https://
 **KAN-6: Executive printer offline**
 
 ![KAN-6 ticket](images/kan-06.png)
-Write-ups: [KAN-4 account locked](tickets/kan-04-account-locked.md) · [KAN-6 printer offline](tickets/kan-06-printer-offline.md)
+## Ticket Write-ups
+
+- [KAN-4: Account locked (Finance)](tickets/kan-04-account-locked.md)
+- [KAN-6: Executive printer offline](tickets/kan-06-printer-offline.md)
