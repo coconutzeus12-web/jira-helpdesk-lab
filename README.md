@@ -40,3 +40,10 @@ The account lockout ticket (KAN-4) pairs with my [Active Directory lab](https://
 ## Screenshots
 
 ![Jira ticket list](images/01-ticket-list.png)
+**KAN-4: Account locked (Finance user)**
+
+![KAN-4 ticket](images/kan-04.png)
+
+**KAN-6: Executive printer offline**
+
+![KAN-6 ticket](images/kan-06.png)
