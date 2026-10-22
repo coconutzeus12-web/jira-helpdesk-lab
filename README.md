@@ -37,3 +37,6 @@ A hands-on lab where I used Jira to log, prioritize, and work through realistic 
 ## Related Lab
 
 The account lockout ticket (KAN-4) pairs with my [Active Directory lab](https://github.com/coconutzeus12-web/Helpdesk-ad-lab), where I set up a lockout policy and unlocked the account myself.
+## Screenshots
+
+![Jira ticket list](images/01-ticket-list.png)
